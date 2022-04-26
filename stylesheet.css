@@ -1,0 +1,16 @@
+
+ body{
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ #resalto{
+transition: all 300ms;
+ }   
+ #resalto:hover{
+     transform: scale(1.15);
+ }
+ #resalt{
+    transition: all 300ms;
+     }   
+     #resalt:hover{
+         transform: scale(1.15);
+     }
